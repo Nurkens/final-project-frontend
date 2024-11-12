@@ -1,0 +1,397 @@
+{ 
+  
+  "articles": [ 
+    { 
+      "id": 1, 
+      "title": "High-speed 3D bioprinter can fabricate structures that closely mimic diverse tissues in human body - Medical Xpress", 
+      "date": "2024-11-09T19:40:02Z", 
+      "category": "Health", 
+      "content": "Biomedical engineers from the University of Melbourne have invented a 3D printing system, or bioprinter, capable of fabricating structures that closely mimic the diverse tissues in the human body, fr… [+3868 chars]", 
+      "views": 1500, 
+      "wordCount": 500, 
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/revolutionary-high-spe.jpg" 
+    }, 
+    { 
+      "id": 2, 
+      "title": "Pelicans' Williamson (hamstring) out indefinitely - ESPN", 
+      "date": "2024-11-09T19:32:00Z", 
+      "category": "Sports", 
+      "content": "New Orleans Pelicans star forward Zion Williamson has been diagnosed with a left hamstring strain and is out indefinitely, the team announced Saturday.", 
+      "views": 120, 
+      "wordCount": 1231, 
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0404%2Fr1314023_1296x729_16%2D9.jpg" 
+    }, 
+    { 
+      "id": 3, 
+      "title": "College football scores, schedule, NCAA top 25 rankings, games: Miami battling Georgia Tech, Texas in action - CBS Sports", 
+      "date": "2024-11-09T19:25:19Z", 
+      "category": "Sports", 
+      "content": "Week 11 of the college football season brings several prominent games to follow. Though there are only two contests between ranked opponents, there are several others that will have a major impact on...", 
+      "views": 210, 
+      "wordCount": 2172, 
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/09/5f7f3d08-a6a5-429c-a36b-40134600ec24/thumbnail/1200x675/72643534049e6b1ee4e462cce66b7c63/colorado.png" 
+    }, 
+    { 
+      "id": 4, 
+      "title": "Attacks on Israeli soccer fans in the Netherlands prompts prime minister to cancel climate trip - The Associated Press", 
+      "date": "2024-11-09T19:01:00Z", 
+      "category": "Politics", 
+      "content": "Dutch Prime Minister Dick Schoof has canceled his planned trip to United Nations climate talks in Azerbaijan so he can stay in the Netherlands to deal with the fallout from assaults on fans of Maccabi Tel Aviv soccer team in Amsterdam.", 
+      "views": 180, 
+      "wordCount": 3705, 
+      "urlToImage": "https://dims.apnews.com/dims4/default/4dc2762/2147483647/strip/true/crop/3020x1699+2+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F92%2F5edf35bc93ba660a8a6257feae40%2Fa95a00c44e90424e93cdefa6d1ba33ce" 
+    }, 
+    { 
+      "id": 5, 
+      "title": "Smoke Smell Hits NYC As Forecasters Warn Of ‘Critical’ Fire Conditions In The Northeast—Here’s What To Know - Forbes", 
+      "date": "2024-11-09T17:47:29Z", 
+      "category": "Environment", 
+      "content": "An air quality warning was issued for New York City, following a series of wildfires across the Tri-State area.", 
+      "views": 250, 
+      "wordCount": 3358, 
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672f9f8f4c928decbcaef102/0x0.jpg?format=jpg&crop=641,360,x204,y20,safe&height=900&width=1600&fit=bounds" 
+    }, 
+    { 
+      "id": 6, 
+      "title": "Qatar suspends mediation efforts on Gaza, officials say - Al Jazeera English", 
+      "date": "2024-11-09T17:35:03Z", 
+      "category": "Politics", 
+      "content": "Qatar says it has suspended its mediation efforts between Hamas and Israel until the parties show their willingness and seriousness to end the war in Gaza.", 
+      "views": 160, 
+      "wordCount": 1842, 
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24314528342679-1731174339.jpg?resize=1920%2C1440" 
+    }, 
+    { 
+      "id": 7, 
+      "title": "Biden, Trump set to meet Wednesday in Oval Office - CBS News", 
+      "date": "2024-11-09T17:26:06Z", 
+      "category": "Politics", 
+      "content": "President-elect Donald Trump will meet with President Joe Biden on Wednesday after Trump defeated Kamala Harris in the race for USA president.", 
+      "views": 220, 
+      "wordCount": 1113, 
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/07/47ddfffd-afc8-4823-aa35-f43b2ac78d27/thumbnail/1200x630/460454273406de06a02a6f241bc4f961/cbsn-fusion-biden-to-address-nation-administration-working-with-trumps-transition-team-thumbnail.jpg?v=c1d30b1df13c40bf65c6c1e6d9ac4ad7" 
+    }, 
+    { 
+      "id": 8, 
+      "title": "Anger over ‘street chaos’ fuels ouster of another blue-city mayor - POLITICO", 
+      "date": "2024-11-09T17:00:00Z", 
+      "category": "Politics", 
+      "content": "San Francisco’s London Breed is the latest in a string of Democratic mayors who’ve faced fierce reelection headwinds due to voters’ concerns over crime and street conditions.", 
+      "views": 300, 
+      "wordCount": 3897, 
+      "urlToImage": "https://static.politico.com/ae/ff/82aa15a54306b9dc050377448a34/ap24313102711571.jpg" 
+    }, 
+     
+    { 
+      "id": 9, 
+      "title": "A new iOS 18 security feature makes it harder for police to unlock iPhones - The Verge", 
+      "date": "2024-11-09T16:49:46Z", 
+      "category": "Technology", 
+      "content": "Code quietly added to iOS 18.1 triggers iPhones to restart after four days of inactivity, frustrating police attempts to break into suspects’ phones.", 
+      "views": 180, 
+      "wordCount": 1628, 
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DKxT_9dadzZqXlaO7Cp0r-yWlbI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532313/STK478_breaking_into_phone_C.jpg" 
+    }, 
+     
+    
+    { 
+      "id": 10, 
+      "title": "Standing desks don’t do squat, per new study - TechCrunch", 
+      "date": "2024-11-09T18:02:23Z", 
+      "category": "Health", 
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/kronos_lift_desk_6752_bdi_standing_desk_8.jpg?resize=1200,943", 
+      "views": 800, 
+      "wordCount": 650 
+    }, 
+    { 
+      "id": 11, 
+      "title": "Here are new guidelines for preventing stroke, the nation’s 4th biggest killer - The Associated Press", 
+      "views": 863, 
+      "wordCount": 650, 
+      "date": "2024-11-09T15:35:00Z", 
+      "category": "Health", 
+      "urlToImage": "https://dims.apnews.com/dims4/default/8402557/2147483647/strip/true/crop/5214x2933+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2Fa5%2F5965ed4cd3c98260a23483f53b7c%2Fa835f2497c77452089efdac7d5fc63ae" 
+    }, 
+    { 
+      "id": 12, 
+      "title": "AI Tool Reveals Long COVID May Affect 23% of People - Neuroscience News", 
+      "views": 800, 
+      "wordCount": 850, 
+      "date": "2024-11-09T15:16:35Z", 
+      "category": "Health", 
+      "urlToImage": "https://neurosciencenews.com/files/2024/11/ai-long-covid-neuroscience.jpg" 
+    }, 
+    { 
+      "id": 13, 
+      "title": "Disrupted Eating Cycles? Liver-Brain Signals Hold Key to Balance - Neuroscience News", 
+      "views": 450, 
+      "wordCount": 250, 
+      "date": "2024-11-09T14:59:45Z", 
+      "category": "Health", 
+      "urlToImage": "https://neurosciencenews.com/files/2024/11/liver-brain-axis-circadian-rhythm-neuroscience.jpg" 
+    }, 
+    { 
+      "id": 14, 
+      "title": "Childhood Stress Disrupts Attention, Sleep, and Dopamine Balance in Adults - Neuroscience News", 
+      "views": 800, 
+      "wordCount": 650, 
+      "date": "2024-11-09T14:06:59Z", 
+      "category": "Health", 
+      "urlToImage": "https://neurosciencenews.com/files/2024/11/child-trauma-dopamine-neurosicence.jpg" 
+    }, 
+    { 
+      "id": 15, 
+      "title": "Weekend Column: Diabetes, Identity, and the Number 11 - westsiderag.com", 
+      "views": 860, 
+      "wordCount": 1650, 
+      "date": "2024-11-09T13:05:11Z", 
+      "category": "Health", 
+      "urlToImage": "https://www.westsiderag.com/wp-content/uploads/2024/11/October2011Gus-e1731078559817.jpg" 
+    }, 
+    { 
+      "id": 16, 
+      "title": "Transplanting brain cells could be the revolutionary treatment to cure neurological disorders - Study Finds", 
+      "views": 945, 
+      "wordCount": 650, 
+      "date":
+"2024-11-09T13:01:44Z", 
+      "category": "Health", 
+      "urlToImage": "https://studyfinds.org/wp-content/uploads/2024/11/degeneration-of-astrocytes.jpg" 
+    }, 
+    { 
+      "id": 17, 
+      "title": "Pelicans' Williamson (hamstring) out indefinitely - ESPN", 
+      "date": "2024-11-09T19:32:00Z", 
+      "views": 480, 
+      "wordCount": 550, 
+      "category": "Sports", 
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0404%2Fr1314023_1296x729_16%2D9.jpg" 
+    }, 
+    { 
+      "id": 18, 
+      "title": "Premier League LIVE: Build-up to Brentford v Bournemouth (15:00 GMT kick-off) plus five other games - BBC.com", 
+      "views": 320, 
+      "wordCount": 750, 
+      "date": "2024-11-09T19:30:00Z", 
+      "category": "Sports", 
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png" 
+    }, 
+    { 
+      "id": 19, 
+      "title": "College football scores, schedule, NCAA top 25 rankings, games: Miami battling Georgia Tech, Texas in action - CBS Sports", 
+      "views": 801, 
+      "wordCount": 646, 
+      "date": "2024-11-09T19:25:19Z", 
+      "category": "Sports", 
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/09/5f7f3d08-a6a5-429c-a36b-40134600ec24/thumbnail/1200x675/72643534049e6b1ee4e462cce66b7c63/colorado.png" 
+    }, 
+    { 
+      "id": 20, 
+      "title": "Roger Goodell: Believe the rumors of NFL game in Berlin - NBC Sports", 
+      "views": 805, 
+      "wordCount": 550, 
+      "date": "2024-11-09T19:20:35Z", 
+      "category": "Sports", 
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b0abad1/2147483647/strip/true/crop/8001x4501+0+417/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F2c%2Fbcb404cb4878b4ae96b0833a6232%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21883064" 
+    }, 
+    { 
+      "id": 21, 
+      "title": "College football rankings: AP Top 25 Week 12 projection after Ole Miss stuns Georgia, Miami falls - 247Sports", 
+      "date": "2024-11-09T19:12:00Z", 
+      "views": 459, 
+      "wordCount": 850, 
+      "category": "Sports", 
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/460/741/12741460.png?width=1200&height=628&crop=1.91:1&fit=cover" 
+    }, 
+    { 
+      "id": 22, 
+      "title": "Analysis of new NFL rules and their impact on the game - ESPN", 
+      "date": "2024-11-09T18:45:00Z", 
+      "views": 120, 
+      "wordCount": 650, 
+      "category": "Sports", 
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1109%2Fnew-nfl-rules.jpg" 
+    }, 
+    { 
+      "id": 23, 
+      "title": "3 takeaways from No. 9 BYU’s rally past Utah to keep the Cougars unbeaten - Deseret News", 
+      "date": "2024-11-09T18:30:00Z", 
+      "views": 100, 
+      "wordCount": 950, 
+      "category": "Sports", 
+      "urlToImage": "https://www.deseret.com/resizer/v2/ULHPGLFHIVAH3DIVFFLSBFCG74.JPG?focal=1520%2C417&auth=2bfe963cb075eb18e81fb1d111a24c91d84994b5a65db9cd84123e7ad46b9fef&width=1200&height=630" 
+    }, 
+    { 
+      "id": 24, 
+      "title": "Here’s Code For That AI-Generated Minecraft Clone - Hackaday", 
+      "date": "2024-11-09T18:00:00Z", 
+      "views": 500, 
+      "wordCount": 650, 
+      "category": "Technology", 
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/11/oasis-stills.png" 
+    }, 
+    { 
+      "id": 25, 
+      "title": "On Its Official Store, Samsung Is Offering -50% on Its OLED TVs For Early Black Friday - Gizmodo", 
+      "date": "2024-11-09T17:50:00Z", 
+      "views": 80, 
+      "wordCount": 650, 
+      "category": "Technology", 
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/samsung-oled-tv.jpg" 
+    }, 
+   
+    { 
+      "id": 26, 
+      "title": "Standing desks don’t do squat, per new study - TechCrunch", 
+      "date": "2024-11-09T18:02:23Z", 
+      "category": "Health", 
+      "content": "Over the years, numerous startups have gained traction by designing, making a", 
+      "views": 150,
+"wordCount": 500, 
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670926280f8ba4fb31a5de47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" 
+    }, 
+    { 
+      "id": 27, 
+      "title": "Northern Lights Update: Here’s Where Aurora Borealis May Be Visible Tonight Amid Geomagnetic Storm - Forbes", 
+      "date": "2024-11-09T14:34:47Z", 
+      "category": "Science", 
+      "content": "Geomagnetic storm conditions are expected on Saturday night...", 
+      "views": 200, 
+      "wordCount": 600, 
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670926280f8ba4fb31a5de47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" 
+    }, 
+    { 
+      "id": 28, 
+      "title": "Scientists Consider Drastic Action as Doomsday Glacier Threatens to Flood Entire Islands and Coasts - Futurism", 
+      "date": "2024-11-09T14:30:48Z", 
+      "category": "Science", 
+      "content": "Scientists disagree when the Thwaites or Doomsday Glacier will...", 
+      "views": 250, 
+      "wordCount": 700, 
+      "urlToImage": "https://wordpress-assets.futurism.com/2024/11/drastic-action-doomsday-glacier-melts.jpg" 
+    }, 
+    { 
+      "id": 29, 
+      "title": "New insights into the Denisovans—the hominin group that interbred with modern day humans - Phys.org", 
+      "date": "2024-11-09T14:10:01Z", 
+      "category": "Science", 
+      "content": "Scientists believe individuals of the most recently discovered hominin group...", 
+      "views": 180, 
+      "wordCount": 550, 
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-insights-into-the-23.jpg" 
+    }, 
+     
+    { 
+      "id": 30, 
+      "title": "Astronomers Discover 'Interstellar Tunnel' In Our Solar Neighborhood - Futurism", 
+      "date": "2024-11-09T13:00:46Z", 
+      "category": "Science", 
+      "content": "The interstellar tunnel, a feature of an enormous structure...", 
+      "views": 400, 
+      "wordCount": 650, 
+      "urlToImage": "https://wordpress-assets.futurism.com/2024/11/astronomers-discover-interstellar-tunnel.jpg" 
+    }, 
+    { 
+      "id": 31, 
+      "title": "Scientists find 'giant' dinosaur spider fossil in Australia - indy100", 
+      "date": "2024-11-09T12:10:54Z", 
+      "category": "Science", 
+      "content": "If you thought Australia’s spiders were scary...", 
+      "views": 500, 
+      "wordCount": 800, 
+      "urlToImage": "https://www.indy100.com/media-library/interesting-but-mostly-creepy-310-million-year-old-spider-fossil-unearthed.jpg?id=45012779&width=1200&height=600&coordinates=0%2C62%2C0%2C63" 
+    }, 
+    { 
+      "id": 32, 
+      "title": "Earth's upcoming close encounter with an asteroid could cause an 'asteroidquake' - indy100", 
+      "date": "2024-11-09T12:10:19Z", 
+      "category": "Science", 
+      "content": "Earth’s upcoming close encounter with an asteroid could cause an asteroidquake...", 
+      "views": 600, 
+      "wordCount": 700, 
+      "urlToImage": "https://www.indy100.com/media-library/earth-now-has-another-moon-as-small-asteroid-joins-our-orbit.jpg?id=54289420&width=1200&height=600&coordinates=0%2C621%2C0%2C243" 
+    }, 
+    { 
+      "id": 33, 
+      "title": "Massive ocean discovered beneath the Earth's crust containing more water than on the surface - indy100", 
+      "date": "2024-11-09T12:04:47Z", 
+      "category": "Science", 
+      "content": "It feels like there have been staggering science stories emerging...", 
+      "views": 700, 
+      "wordCount": 300, 
+      "urlToImage": "https://www.indy100.com/media-library/endless-ocean-luminous.jpg?id=33372289&width=1200&height=600&coordinates=0%2C173%2C0%2C173" 
+    }, 
+    { 
+      "id": 34, 
+      "title": "Asteroid Strikes Earth Hours After Discovery, 2024's Third Near-Miss - NDTV", 
+      "date": "2024-11-09T12:03:36Z", 
+      "category": "Science", 
+      "content": "The asteroid was first observed on October 22 by the Asteroid Terrestrial-impact...", 
+      "views": 800, 
+      "wordCount": 60, 
+      "urlToImage": "https://c.ndtvimg.com/2024-11/pnro5jj8_asteroid_625x300_09_November_24.jpeg"
+}, 
+    { 
+      "id": 35, 
+      "title": "Asteroid Strikes Earth Hours After Discovery, 2024's Third Near-Miss - NDTV", 
+      "date": "2024-11-09T12:03:36Z", 
+      "category": "Science", 
+      "content": "The asteroid was first observed on October 22 by the Asteroid Terrestrial-impact...", 
+      "views": 840, 
+      "wordCount": 650, 
+      "urlToImage": "https://c.ndtvimg.com/2024-11/pnro5jj8_asteroid_625x300_09_November_24.jpeg" 
+    }, 
+    { 
+      "id": 36, 
+      "title": "Yellowstone' star Luke Grimes admits 'none of us saw' Kevin Costner's exit coming - Fox News", 
+      "date": "2024-11-10T09:00:00Z", 
+      "category": "Entertainment", 
+      "content": "The asteroid was first observed on October 22 by the Asteroid Terrestrial-impact...", 
+      "views": 800, 
+      "wordCount": 550, 
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/luke-grimes-kevin-costner.jpg" 
+    }, 
+    { 
+      "id": 37, 
+      "title": "‘SNL’ Cast Praises Trump in Sarcastic Cold Open as Dana Carvey Debuts Elon Musk Impression: ‘I Run the Country Now!’ - Variety", 
+      "date": "2024-11-10T05:00:00Z", 
+      "category": "Entertainment", 
+      "content": "The cast of “Saturday Night Live” faked audiences out by praising Donald Trump in the series’ first episode after his election.\r\nIn the cold open,", 
+      "views": 600, 
+      "wordCount": 450, 
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/snl.png?w=1000&h=563&crop=1" 
+    }, 
+    { 
+      "id": 38, 
+      "title": "Yellowstone star Kelly Reilly 'can't talk' about show's future as Beth Dutton - BBC.com", 
+      "date": "2024-11-09T12:03:36Z", 
+      "category": "Entertainment", 
+      "content": "Warning: contains some Yellowstone plot spoliers\r\nCowboys, murderous revenge plots and family secrets have kept Yellowstone fans hooked since 2018. \r\nIt is one of the most watch", 
+      "views": 830, 
+      "wordCount": 670, 
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5934/live/8c6b4460-9dbb-11ef-af15-1f9d071fcd9c.jpg" 
+    }, 
+    { 
+      "id": 39, 
+      "title": "Netflix’s ‘Arcane’ Creator Says Season 2 Is Inspired by Fractured Politics: ‘It’s Only Gotten Worse’ - Variety", 
+      "date": "2024-11-09T16:30:00Z", 
+      "category": "Entertainment", 
+      "content": "Christian Linke, the creator of Netflix’s “Arcane,” admits he was inspired by the U.S. two-party system of politics and their inability to communicate with each other. \r\n“Arcane.", 
+      "views": 860, 
+      "wordCount": 250, 
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/06/Arcane_a10a9b.jpg?w=1000&h=563&crop=1" 
+    }, 
+    { 
+      "id": 40, 
+      "title": "Mark Rober's lightning-fast robot can win at rock-paper-scissors 100% of the time - TechSpot", 
+      "date": "2024-11-09T12:03:36Z", 
+      "category": "Technology", 
+      "content": "In a nutshell: Computers have been beating humans at games for a long while. OpenAI got its start with bots that could beat professional Starcraft players. Now, one engi.", 
+      "views": 700, 
+      "wordCount": 1050, 
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-09-image-5.jpg" 
+    } 
+ 
+    
+  ] 
+}
